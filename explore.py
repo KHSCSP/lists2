@@ -6,7 +6,7 @@ print("noob nums:", nums)
 # better
 nums = []
 for i in range(1, 11):
-  nums.append(i)
+    nums.append(i)
 print("better nums:", nums)
 
 # pro!
@@ -20,6 +20,6 @@ import random
 nums = [random.randint(1,100) for i in range(100)]
 count_teens = 0
 for num in nums:
-  if num > 12 and num < 20:
-    count_teens += 1
+    if num > 12 and num < 20:
+        count_teens += 1
 print("this many numbers in the 'teens':", count_teens)
