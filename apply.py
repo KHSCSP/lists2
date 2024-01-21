@@ -8,12 +8,12 @@ print("\n---- part 1, pizza ----")
 
 
 
-print("\n\n---- part 2, twenty numbers, no list----")
+print("\n\n---- part 2, twenty numbers, no list defined ----")
 # (no list) use a for loop to print the numbers from 1 to 20, one on each line
 # (no list) use a for loop to print the nubers from 1 to 20 all on one line (hint: end=somethingsomething)
 
 
-print("\n\n---- part 3, twenty numbers, loop list ----")
+print("\n\n---- part 3, twenty numbers, list defined ----")
 # make a list of numbers from 1 to 20 using a for loop
 # print the list
 # make a list of numbers from 1 to 20 using list comprehension
@@ -42,6 +42,7 @@ print("\n\n---- part 6, odds ----")
 # use a for loop to print each item
 
 
+
 print("\n\n---- part 7, cubes ----")
 # a number raised to the 3rd power is called a cube
 # use a for loop to make a list of the first 10 cubes
@@ -49,7 +50,7 @@ print("\n\n---- part 7, cubes ----")
 # use a for loop to print each item
 
 
-print("\n\n---- part 8, cubes ----")
+print("\n\n---- part 8, cubes with comprehension ----")
 # use list comprehension to make a list of the first 10 cubes
 # print the list
 # use a for loop to print each item
@@ -61,3 +62,4 @@ print("\n\n---- part 9, cold-puter science ----")
 # get input from the keyboard, all on one line separated by spaces
 # convert to a list of integers
 # determine how many are less than zero
+
