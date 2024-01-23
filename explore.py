@@ -23,3 +23,17 @@ for num in nums:
     if num > 12 and num < 20:
         count_teens += 1
 print("this many numbers in the 'teens':", count_teens)
+
+
+
+print("\n----- using .split() -----")
+words = "Animalia,Plantae,Fungi,Protista,Archaea,Bacteria"
+print("the words:", words)
+words_to_list = words.split(",")
+print("split at commas to make a list:\n", words_to_list)
+
+words = "Animalia Plantae Fungi Protista Archaea Bacteria"
+print("\nthe words:", words)
+words_to_list = words.split()
+print("with no parameter, .split() splits at spaces")
+print("split at spaces to make a list:\n", words_to_list)
