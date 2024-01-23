@@ -38,7 +38,7 @@ print("\n\n---- part 4, ten thousand numbers ----")
 
 
 
-print("\n\n---- part 5, ten million numbers ----")
+print("\n\n---- part 5, one million numbers ----")
 # 1) make a list of numbers from one to one million
 # if necessary, sort your list
 # 2) print the length of the list
@@ -63,7 +63,7 @@ print("3) using a loop...")
 
 print("\n\n---- part 7, cubes ----")
 # a number raised to the 3rd power is called a cube
-# 1) use a for loop to make a list of the first 10 cubes
+# 1) use a for loop or list comprehension to make a list of the first 10 cubes
 # 2) print the list
 # 3) use a for loop to print each item
 print("2) the list of cubes:")
@@ -71,16 +71,9 @@ print("3) using a loop...")
 
 
 
-print("\n\n---- part 8, cubes with comprehension ----")
-# 1) use list comprehension to make a list of the first 10 cubes
-# 2) print the list
-# 3) use a for loop to print each item
-print("2) the list of cubes using comprehension:")
-print("3) using a loop...")
 
 
-
-print("\n\n---- part 9, cold-puter science ----")
+print("\n\n---- part 8, cold-puter science ----")
 # get input from the keyboard, all on one line separated by spaces
 # convert to a list of integers
 # determine how many are less than zero
