@@ -18,6 +18,7 @@ print("1) one to twenty:")
 print("2) one to twenty again:")
 
 
+
 print("\n\n---- part 3, twenty numbers, list defined ----")
 # 1) make a list of numbers from 1 to 20 using a for loop
 # this will require the .append() method
@@ -28,11 +29,13 @@ print("2) one to twenty using 'for':")
 print("4) one to twenty using comprehension:")
 
 
+
 print("\n\n---- part 4, ten thousand numbers ----")
 # 1) make a list of numbers from one to ten thousand
 # 2) print the list
 # 3) use a for loop to print each item
 # (then comment this out)
+
 
 
 print("\n\n---- part 5, ten million numbers ----")
@@ -48,12 +51,14 @@ print("4) using max and min:")
 print("5) the total:")
 
 
+
 print("\n\n---- part 6, odds ----")
 # 1) make a list of odd numbers from 1 to 200
 # 2) print the list
 # 3) use a for loop to print each item
 print("2) the list of odds:")
 print("3) using a loop...")
+
 
 
 print("\n\n---- part 7, cubes ----")
