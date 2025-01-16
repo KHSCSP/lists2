@@ -12,33 +12,23 @@ print("3) using a loop:")
 
 
 print("\n\n---- part 2, twenty numbers, no list defined ----")
-# 1) (no list) use a for loop to print the numbers from 1 to 20, on 20 lines
-# 2) (no list) use a for loop to print the nubers from 1 to 20 all on one line (hint: end=somethingsomething)
+# 1) (no list) use a for loop to print the nubers from 1 to 20 all on one line (hint: end=somethingsomething)
 print("1) one to twenty:")
-print("2) one to twenty again:")
 
 
 
 print("\n\n---- part 3, twenty numbers, list defined ----")
-# 1) make a list of numbers from 1 to 20 using a for loop
-# this will require the .append() method
-# 2) print the list
-# 3) make a list of numbers from 1 to 20 using list comprehension
-# 4) print the list
-print("2) one to twenty using 'for':")
-print("4) one to twenty using comprehension:")
+# 1) make a list of numbers from 1 to 20 using a for loop, then print the list
+# hint: you can either use 'for' and .append
+# or comprehension
+print("1) one to twenty using 'for':")
 
 
 
-print("\n\n---- part 4, ten thousand numbers ----")
-# 1) make a list of numbers from one to ten thousand
-# 2) print the list
-# 3) use a for loop to print each item
-# (then comment this out)
 
 
 
-print("\n\n---- part 5, one million numbers ----")
+print("\n\n---- part 4, one million numbers ----")
 # 1) make a list of numbers from one to one million
 # if necessary, sort your list
 # 2) print the length of the list
@@ -52,12 +42,10 @@ print("5) the total:")
 
 
 
-print("\n\n---- part 6, odds ----")
+print("\n\n---- part 5, odds ----")
 # 1) make a list of odd numbers from 1 to 200
 # 2) print the list
-# 3) use a for loop to print each item
 print("2) the list of odds:")
-print("3) using a loop...")
 
 
 
