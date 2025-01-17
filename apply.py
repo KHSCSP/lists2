@@ -49,7 +49,7 @@ print("2) the list of odds:")
 
 
 
-print("\n\n---- part 7, cubes ----")
+print("\n\n---- part 6, cubes ----")
 # a number raised to the 3rd power is called a cube
 # 1) use a for loop or list comprehension to make a list of the first 10 cubes
 # 2) print the list
@@ -61,7 +61,7 @@ print("3) using a loop...")
 
 
 
-print("\n\n---- part 8, cold-puter science ----")
+print("\n\n---- part 7, cold-puter science ----")
 # get input from the keyboard, all on one line separated by spaces
 # convert to a list of integers
 # determine how many are less than zero
